@@ -1,0 +1,49 @@
+.starting {
+    background-image: url(/images/1ecccd50-34bd-4579-8876-1183adad0e7b_37.jpg);
+    background-size:cover;
+    background-position:center;
+    height: 500px;
+}
+
+.starting1 {
+    background-image: url(/images/m5rpadjfv50eyolofmfk.jpg);
+    background-size:cover;
+    background-position:center;
+    height: 500px;
+}
+
+.starting2 {
+    background-image: url(/images/Modern_BelindaMarshall-5a70f329ff1b780037f0c5db.jpg);
+    background-size:cover;
+    background-position:center;
+    height: 500px;
+}
+
+.getStarted {
+    text-align: center;
+    font-size: large;
+    color: whitesmoke;
+    text-shadow: rgb(141, 109, 141) 2px 2px;
+}
+
+
+.getStarted h1 {
+    font-weight: 800;
+}
+
+.getStarted p {
+    font-weight: 600;
+}
+
+.card-deck {    
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.homeMenu {
+    justify-content: flex-end;
+}
+
+.navbar-brand{
+    color: whitesmoke;
+}
